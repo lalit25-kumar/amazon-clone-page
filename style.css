@@ -77,6 +77,10 @@ margin-left: 3px;
     font-size: 1.3rem;
     color: black;
 }
+.i:hover {
+    font-size: 1.5rem;
+     transition: 0.3s;
+}
 
 /* --------box4 & 5----------- */
 span{
